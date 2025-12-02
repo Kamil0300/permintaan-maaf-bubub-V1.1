@@ -1,0 +1,5 @@
+{
+  "name": "Transvaal Daisy Showcase",
+  "description": "A simple and beautiful web application that displays a vector illustration of a Transvaal daisy, created with React, SVG, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
